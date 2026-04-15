@@ -42,7 +42,7 @@ body {
 }
 
 .status-dot.error {
-    background: #f44336;
+    background: #c62828;
     animation: none;
 }
 
@@ -70,7 +70,7 @@ body {
 
 /* Logo Section */
 .logo-section {
-    background: linear-gradient(180deg, #b71c1c 0%, #c62828 100%);
+    background: linear-gradient(180deg, #c62828 0%, #b71c1c 100%);
     padding: 60px 20px 80px;
     display: flex;
     justify-content: center;

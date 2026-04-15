@@ -42,29 +42,29 @@ document.addEventListener('DOMContentLoaded', function() {
     // ============================================
     
     // Login con Google
-    googleLoginBtn.addEventListener('click', async function() {
-        this.disabled = true;
-        const originalText = this.innerHTML;
-        this.innerHTML = '<span>Conectando con Google...</span>';
-        
-        try {
-            const provider = getGoogleProvider();
-            const result = await firebase.auth().signInWithPopup(provider);
-            const user = result.user;
-            
-            console.log('Login exitoso con Google:', user);
-            showMessage(`¡Bienvenido ${user.displayName}!`, 'success');
-            
-            await saveUserToFirestore(user);
-            
-        } catch (error) {
-            console.error('Error en login con Google:', error);
-            handleAuthError(error);
-        } finally {
-            this.disabled = false;
-            this.innerHTML = originalText;
-        }
-    });
+    //googleLoginBtn.addEventListener('click', async function() {
+    //    this.disabled = true;
+    //    const originalText = this.innerHTML;
+    //    this.innerHTML = '<span>Conectando con Google...</span>';
+    //    
+    //    try {
+    //        const provider = getGoogleProvider();
+    //        const result = await firebase.auth().signInWithPopup(provider);
+    //        const user = result.user;
+    //        
+    //        console.log('Login exitoso con Google:', user);
+    //        showMessage(`¡Bienvenido ${user.displayName}!`, 'success');
+    //        
+    //        await saveUserToFirestore(user);
+    //        
+    //    } catch (error) {
+    //        console.error('Error en login con Google:', error);
+    //        handleAuthError(error);
+    //    } finally {
+    //        this.disabled = false;
+    //        this.innerHTML = originalText;
+    //    }
+    //});
     
     // Login con Email/Password
     loginBtn.addEventListener('click', async function(e) {
