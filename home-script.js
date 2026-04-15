@@ -16,7 +16,7 @@ const productsData = {
             id: 'rest-2',
             name: 'Almuerzo',
             price: 2.50,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/imgDelivary/pollo-con-champinones.jpg?w=393&h=260&ar=393%3A260',
+            image: 'https://facilycasero.com/wp-content/uploads/2024/07/almuerzos-rapidos-y-saludables_-post_1-1024x661.jpg',
             category: 'restaurantes'
         },
         {
