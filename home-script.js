@@ -16,28 +16,28 @@ const productsData = {
             id: 'rest-2',
             name: 'Almuerzo',
             price: 2.50,
-            image: 'https://facilycasero.com/wp-content/uploads/2024/07/almuerzos-rapidos-y-saludables_-post_1-1024x661.jpg',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         },
         {
             id: 'rest-3',
             name: 'Seco',
             price: 2.00,
-            image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         },
         {
             id: 'rest-4',
             name: 'Papipollo',
             price: 1.50,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/res/db9963dae6840ec30e2eb0797a887b61.avif?w=684&h=456&ar=684%3A456',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         },
         {
             id: 'rest-5',
             name: 'Fritada',
             price: 1.50,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/res/fritada-de-chancho_web.jpg.webp?w=482&h=294',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         }
     ],
@@ -46,35 +46,35 @@ const productsData = {
             id: 'merc-1',
             name: 'Azúcar 2 kg',
             price: 2.00,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/mercado/azucar-blanca-1024x1024.jpg?w=1024&h=1024&ar=1024%3A1024',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
             id: 'merc-2',
             name: 'Sal 1kg',
             price: 0.50,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/mercado/OIP.webp?w=474&h=474',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
             id: 'merc-3',
             name: 'Fideos Cayambe 1 L',
             price: 0.70,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/mercado/7/fideo-macarron-cayambe-400-g.jpg?w=1000&h=1000',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
             id: 'merc-3',
             name: 'Aceite 1 litro',
             price: 1.00,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/7861223826616-1-19.jpg?w=1500&h=1500',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
             id: 'merc-4',
             name: 'Arroz 1L',
             price: 1.00,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/images.jpg?w=258&h=195&ar=258%3A195',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
