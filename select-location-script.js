@@ -6,8 +6,8 @@ let map;
 let currentUser = null;
 let cart = [];
 let selectedLocation = {
-    lat: 0.3346056, // Atuntaqui, Ecuador
-    lng: -78.2185059
+    lat: -1.295460, // Ambato, Ecuador
+    lng: -78.726992
 };
 const DELIVERY_FEE = 1.00;
 

@@ -16,53 +16,152 @@ const productsData = {
             id: 'rest-2',
             name: 'Almuerzo',
             price: 2.50,
-            image: 'https://images.unsplash.com/photo-1546069901-ba9599a7e63c?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         },
         {
             id: 'rest-3',
-            name: 'Ensalada',
-            price: 3.00,
-            image: 'https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=400&h=400&fit=crop',
+            name: 'Seco',
+            price: 2.00,
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         },
         {
             id: 'rest-4',
             name: 'Papipollo',
             price: 1.50,
-            image: 'https://images.unsplash.com/photo-1562967914-608f82629710?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         },
         {
             id: 'rest-5',
             name: 'Fritada',
             price: 1.50,
-            image: 'https://images.unsplash.com/photo-1599487488170-d11ec9c172f0?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'restaurantes'
         }
     ],
     mercado: [
         {
             id: 'merc-1',
-            name: 'Azúcar',
-            price: 1.00,
-            image: 'https://images.unsplash.com/photo-1581850518616-bcb8077a2336?w=400&h=400&fit=crop',
+            name: 'Azúcar 2 kg',
+            price: 2.00,
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
             id: 'merc-2',
-            name: 'Sal',
-            price: 1.00,
-            image: 'https://images.unsplash.com/photo-1584949602334-204ce8068c17?w=400&h=400&fit=crop',
+            name: 'Sal 1kg',
+            price: 0.50,
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
             id: 'merc-3',
-            name: 'Fideos',
-            price: 2.00,
-            image: 'https://images.unsplash.com/photo-1551462147-37c24e43d335?w=400&h=400&fit=crop',
+            name: 'Fideos Cayambe 1 L',
+            price: 0.70,
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-3',
+            name: 'Aceite 1 litro',
+            price: 1.00,
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-4',
+            name: 'Arroz 1L',
+            price: 1.00,
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-5',
+            name: 'Tallarines oriental',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(1).webp?w=474&h=474',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-6',
+            name: 'Bebida hidratante powerde 1L mora Azul',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/mercado/1000213252.jpg?w=700&h=700',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-7',
+            name: 'Tallarines Don Victorio',
+            price: 1.25,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/images%20(1).jpg?w=224&h=225&ar=224%3A225',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-8',
+            name: 'Azúcar 1 kg',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/images%20(2).jpg?w=194&h=259',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-9',
+            name: 'Sal 2kg',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(2).webp?w=474&h=474',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-10',
+            name: 'Atun real',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/REA020.jpg?w=768&h=768',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-11',
+            name: 'Cocoa en polvo',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/61uWnSQYSLL._AC_UF894,1000_QL80_.jpg?w=616&h=1000',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-12',
+            name: 'Sardina Real 500 g',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/40518667_0120230613152910.jpg?w=1200&h=1200',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-13',
+            name: 'Sardina Real 800 g',
+            price: 1.25,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(3).webp?w=443&h=232&ar=443%3A232',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-14',
+            name: 'VIVE100 300ml Original',
+            price: 0.50,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/7862106704458-1-12.jpg',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-14',
+            name: 'Pepsi 1L',
+            price: 0.50,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/7862109438268pesi1lt-e1732980014289.webp?w=500&h=752',
+            category: 'mercado'
+        },
+        {
+            id: 'merc-15',
+            name: 'Pepsi 2L',
+            price: 1.00,
+            image: 'https://69963448b3906ad69abd5f52.imgix.net/whatsapp_image_2024-03-15_at_12.07.20.jpeg?w=1200&h=1200',
             category: 'mercado'
         }
+
     ],
     farmacia: [
         {
@@ -90,13 +189,27 @@ const productsData = {
     ferreteria: [
         {
             id: 'ferr-1',
-            name: 'Clavos',
-            price: 0.70,
+            name: 'Foco led',
+            price: 1.00,
             image: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400&h=400&fit=crop',
             category: 'ferreteria'
         },
         {
             id: 'ferr-2',
+            name: 'Martillo',
+            price: 6.00,
+            image: 'https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=400&h=400&fit=crop',
+            category: 'ferreteria'
+        },
+        {
+            id: 'ferr-3',
+            name: '1L Clavos',
+            price: 0.70,
+            image: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400&h=400&fit=crop',
+            category: 'ferreteria'
+        },
+        {
+            id: 'ferr-4',
             name: 'Martillo',
             price: 6.00,
             image: 'https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=400&h=400&fit=crop',
