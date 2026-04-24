@@ -64,98 +64,98 @@ const productsData = {
             category: 'mercado'
         },
         {
-            id: 'merc-3',
+            id: 'merc-4',
             name: 'Aceite 1 litro',
             price: 1.00,
             image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
-            id: 'merc-4',
+            id: 'merc-5',
             name: 'Arroz 1L',
             price: 1.00,
             image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
             category: 'mercado'
         },
         {
-            id: 'merc-5',
+            id: 'merc-6',
             name: 'Tallarines oriental',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(1).webp?w=474&h=474',
             category: 'mercado'
         },
         {
-            id: 'merc-6',
+            id: 'merc-7',
             name: 'Bebida hidratante powerde 1L mora Azul',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/mercado/1000213252.jpg?w=700&h=700',
             category: 'mercado'
         },
         {
-            id: 'merc-7',
+            id: 'merc-8',
             name: 'Tallarines Don Victorio',
             price: 1.25,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/images%20(1).jpg?w=224&h=225&ar=224%3A225',
             category: 'mercado'
         },
         {
-            id: 'merc-8',
+            id: 'merc-9',
             name: 'Azúcar 1 kg',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/images%20(2).jpg?w=194&h=259',
             category: 'mercado'
         },
         {
-            id: 'merc-9',
+            id: 'merc-10',
             name: 'Sal 2kg',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(2).webp?w=474&h=474',
             category: 'mercado'
         },
         {
-            id: 'merc-10',
+            id: 'merc-11',
             name: 'Atun real',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/REA020.jpg?w=768&h=768',
             category: 'mercado'
         },
         {
-            id: 'merc-11',
+            id: 'merc-12',
             name: 'Cocoa en polvo',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/61uWnSQYSLL._AC_UF894,1000_QL80_.jpg?w=616&h=1000',
             category: 'mercado'
         },
         {
-            id: 'merc-12',
+            id: 'merc-13',
             name: 'Sardina Real 500 g',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/40518667_0120230613152910.jpg?w=1200&h=1200',
             category: 'mercado'
         },
         {
-            id: 'merc-13',
+            id: 'merc-14',
             name: 'Sardina Real 800 g',
             price: 1.25,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(3).webp?w=443&h=232&ar=443%3A232',
             category: 'mercado'
         },
         {
-            id: 'merc-14',
+            id: 'merc-15',
             name: 'VIVE100 300ml Original',
             price: 0.50,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/7862106704458-1-12.jpg',
             category: 'mercado'
         },
         {
-            id: 'merc-14',
+            id: 'merc-16',
             name: 'Pepsi 1L',
             price: 0.50,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/7862109438268pesi1lt-e1732980014289.webp?w=500&h=752',
             category: 'mercado'
         },
         {
-            id: 'merc-15',
+            id: 'merc-17',
             name: 'Pepsi 2L',
             price: 1.00,
             image: 'https://69963448b3906ad69abd5f52.imgix.net/whatsapp_image_2024-03-15_at_12.07.20.jpeg?w=1200&h=1200',
