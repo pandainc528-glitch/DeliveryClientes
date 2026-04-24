@@ -16,28 +16,28 @@ const productsData = {
             id: 'rest-2',
             name: 'Almuerzo',
             price: 2.50,
-            image: 'https://collection.cloudinary.com/dh1serbqk/3991b7ae66aefe70192dfb60aea55668',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041760/images_8_nwvnlk.jpg',
             category: 'restaurantes'
         },
         {
             id: 'rest-3',
             name: 'Seco',
             price: 2.00,
-            image: 'https://collection.cloudinary.com/dh1serbqk/01a310fd42dd98bfa9c111a50dc198bc',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041760/hq720_ljieuh.jpg',
             category: 'restaurantes'
         },
         {
             id: 'rest-4',
             name: 'Papipollo',
             price: 1.50,
-            image: 'https://collection.cloudinary.com/dh1serbqk/3232af3eb03bd24f2b1901ca006dd329',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041677/db9963dae6840ec30e2eb0797a887b61_nvlpex.jpg',
             category: 'restaurantes'
         },
         {
             id: 'rest-5',
             name: 'Fritada',
             price: 1.50,
-            image: 'https://collection.cloudinary.com/dh1serbqk/7a5f4d026b37e43f2ddab0f4fcb6c9af',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041761/images_9_w33u3x.jpg',
             category: 'restaurantes'
         }
     ],
