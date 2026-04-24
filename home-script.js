@@ -53,7 +53,7 @@ const productsData = {
             id: 'merc-2',
             name: 'Sal 1kg',
             price: 0.50,
-            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777050968/7861057500072-1_gzwin4.jpg',
             category: 'mercado'
         },
         {
