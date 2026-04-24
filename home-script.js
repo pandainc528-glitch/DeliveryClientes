@@ -16,7 +16,7 @@ const productsData = {
             id: 'rest-2',
             name: 'Almuerzo',
             price: 2.50,
-            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            image: 'https://collection.cloudinary.com/dh1serbqk/3991b7ae66aefe70192dfb60aea55668',
             category: 'restaurantes'
         },
         {
