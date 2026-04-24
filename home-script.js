@@ -60,7 +60,7 @@ const productsData = {
             id: 'merc-3',
             name: 'Fideos Cayambe 1 L',
             price: 0.70,
-            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777050969/items2Figm2F1000x10002F7862112900035-1-1_sgyhtc.jpg',
             category: 'mercado'
         },
         {
@@ -74,14 +74,14 @@ const productsData = {
             id: 'merc-5',
             name: 'Arroz 1L',
             price: 1.00,
-            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777050968/ACEITEFAVORITA1LTNDUSTRIAALIMENTICIAYES_ac3jys.jpg',
             category: 'mercado'
         },
         {
             id: 'merc-6',
             name: 'Tallarines oriental',
             price: 1.00,
-            image: 'https://69963448b3906ad69abd5f52.imgix.net/OIP%20(1).webp?w=474&h=474',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777050969/images_11_t5eq4p.jpg',
             category: 'mercado'
         },
         {
