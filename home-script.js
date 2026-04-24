@@ -46,7 +46,7 @@ const productsData = {
             id: 'merc-1',
             name: 'Azúcar 2 kg',
             price: 2.00,
-            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1776270112/tre_ttp2x8.png',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777050969/azucar-blanca_z8oq8u.jpg',
             category: 'mercado'
         },
         {
