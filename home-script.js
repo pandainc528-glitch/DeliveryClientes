@@ -184,28 +184,28 @@ const productsData = {
             id: 'ferr-1',
             name: 'Foco led',
             price: 1.00,
-            image: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779487812/foco-led-a60-15w-6000k-blanco-orange-11283_001_ybsswn.webp',
             category: 'ferreteria'
         },
         {
             id: 'ferr-2',
             name: 'Martillo',
             price: 6.00,
-            image: 'https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779487878/martillo-mango-madera-conica-13oz-stanley-13986_01_ikgqud.webp',
             category: 'ferreteria'
         },
         {
             id: 'ferr-3',
-            name: '1L Clavos',
+            name: '1L Clavos de 1/2',
             price: 0.70,
-            image: 'https://images.unsplash.com/photo-1504148455328-c376907d081c?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779487962/images_2_ga4xzr.jpg',
             category: 'ferreteria'
         },
         {
             id: 'ferr-4',
-            name: 'Martillo',
+            name: 'Calvos de acero',
             price: 6.00,
-            image: 'https://images.unsplash.com/photo-1580894742597-87bc8789db3d?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779488027/images_3_jbaqxc.jpg',
             category: 'ferreteria'
         }
     ]
