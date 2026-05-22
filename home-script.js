@@ -7,34 +7,27 @@ const productsData = {
     restaurantes: [
         {
             id: 'rest-1',
-            name: 'Hamburguesa',
-            price: 2.50,
-            image: 'https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=400&h=400&fit=crop',
-            category: 'restaurantes'
-        },
-        {
-            id: 'rest-2',
             name: 'Almuerzo',
             price: 2.50,
             image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041760/images_8_nwvnlk.jpg',
             category: 'restaurantes'
         },
         {
-            id: 'rest-3',
+            id: 'rest-2',
             name: 'Seco',
             price: 2.00,
             image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041760/hq720_ljieuh.jpg',
             category: 'restaurantes'
         },
         {
-            id: 'rest-4',
+            id: 'rest-3',
             name: 'Papipollo',
             price: 1.50,
             image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041677/db9963dae6840ec30e2eb0797a887b61_nvlpex.jpg',
             category: 'restaurantes'
         },
         {
-            id: 'rest-5',
+            id: 'rest-4',
             name: 'Fritada',
             price: 1.50,
             image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1777041761/images_9_w33u3x.jpg',
