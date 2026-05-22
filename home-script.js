@@ -166,16 +166,16 @@ const productsData = {
         },
         {
             id: 'farm-2',
-            name: 'Alcohol',
+            name: 'Agua Oxigenada',
             price: 1.30,
-            image: 'https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779487402/images_ldmned.jpg',
             category: 'farmacia'
         },
         {
             id: 'farm-3',
             name: 'Preservativos',
             price: 2.50,
-            image: 'https://images.unsplash.com/photo-1550572017-4332d4e6a8e5?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779487538/images_1_wfjpfv.jpg',
             category: 'farmacia'
         }
     ],
