@@ -161,7 +161,7 @@ const productsData = {
             id: 'farm-1',
             name: 'Curita',
             price: 0.10,
-            image: 'https://images.unsplash.com/photo-1603398938378-e54eab446dde?w=400&h=400&fit=crop',
+            image: 'https://res.cloudinary.com/dh1serbqk/image/upload/v1779486468/descarga_a33oro.jpg',
             category: 'farmacia'
         },
         {
